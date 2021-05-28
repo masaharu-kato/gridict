@@ -1,0 +1,2 @@
+# Gridict
+Grid dictionary library
